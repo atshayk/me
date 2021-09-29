@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icybe
 - 👀 I’m interested in drawing and videogames
-- 🌱 I’m currently learning how to use ATOM.
+- 🌱 I’m currently learning how to make a discord bot.
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me: you can message me on discord tama#4853
 
