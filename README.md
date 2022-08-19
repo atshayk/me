@@ -2,6 +2,7 @@
 - 👀 I’m interested in videogames, websites, apps, operating systems and vfx.
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me: you can message me on discord tama#4853
+- created a basic discord bot "tamabot"
 
 <!---
 icybe/icybe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
