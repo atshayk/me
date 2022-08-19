@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @icybe
-- 👀 I’m interested in videogames, websites and apps.
-- 🌱 I’m currently learning how to program in C and making a discord bot using pycord.
+- 👋 Hi, I’m @tamabyte
+- 👀 I’m interested in videogames, websites, apps, operating systems and vfx.
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me: you can message me on discord tama#4853
 
