@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @tamabyte
-- 👀 I’m interested in videogames, websites, apps, operating systems and vfx.
-- 💞️ I’m looking to collaborate on just about anything.
-- 📫 How to reach me: you can message me on discord tama#4853
-- created a basic discord bot "tamabot"
+- 👋 Hi, I’m @atshayk
+- 👀 I’m interested in apps, websites, os and cysec.
+- 📫 How to reach me: you can mail me at anistimurshayk@gmail.com
 
 <!---
 icybe/icybe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
