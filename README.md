@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atshayk
-- 👀 I’m interested in apps, websites, os and cysec.
+- 👀 I’m interested in apps, websites, os and cysec. Currently learning Flutter.
 - 📫 How to reach me: you can mail me at anistimurshayk@gmail.com
 
 <!---
