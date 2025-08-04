@@ -2,6 +2,8 @@
 
 👋 Hi, my name's Anis! Follow me @atshayk on all platforms
 
+🔧 I'm a fullstack developer, learning development for apps and websites!
+
 🛠️ Currently working on my portfolio and random projects🤷‍♀️
 
 📫 How to reach me: you can mail me at [my email.](anistimurshayk@gmail.com)
